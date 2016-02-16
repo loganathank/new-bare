@@ -7,7 +7,7 @@ public class Test{
 		
 		System.out.println("hai");
 		
-		System.out.println("svn");
+		System.out.println("svn-test");
 		
 	}
 }
